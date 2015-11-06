@@ -10,5 +10,5 @@ while True:
 			break
 		print arr.pop(0)
 
-
+print 'hello world'
 
